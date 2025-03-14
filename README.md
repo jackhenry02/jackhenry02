@@ -19,6 +19,7 @@ Feel free to look at some of my code. It is messy, but I am slowly getting bette
 ![C++](https://img.shields.io/badge/C++-5A5A5A.svg?style=flat&logo=c%2B%2B)
 
 Strongest: Python
+
 Looking to learn next: SQL
 
 #
