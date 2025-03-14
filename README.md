@@ -10,7 +10,7 @@ Feel free to look at some of my code. Sorry it is messy, I am slowly getting bet
 
 [**CLICK ME**](https://jackhenry02.github.io/jackhenry02/)
 
-(it is made from scratch so be nice please 🙏)
+(it is made from scratch please be patient 🙏)
 
 #
 
