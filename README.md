@@ -4,6 +4,8 @@ Hi, I'm Jack! Welcome to my GitHub profile.
 
 Feel free to look at some of my code. It is messy, but I am slowly getting better with time.
 
+#
+
 ### Coding Languages
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
@@ -12,6 +14,8 @@ Feel free to look at some of my code. It is messy, but I am slowly getting bette
 
 Strongest: Python
 Looking to learn next: SQL
+
+#
 
 ### Projects
 Here are some of my notable projects:
