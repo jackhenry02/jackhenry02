@@ -2,13 +2,15 @@
 
 Hi, I'm Jack! Welcome to my GitHub profile.
 
-Feel free to look at some of my code. It is messy, but I am slowly getting better with time.
+Feel free to look at some of my code. Sorry it is messy, I am slowly getting better with time though.
 
 #
 
-### Website repository
+### Website
 
 [**CLICK ME**](https://jackhenry02.github.io/jackhenry02/)
+
+(it is made from scratch so be nice please 🙏)
 
 #
 
