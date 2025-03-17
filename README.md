@@ -18,9 +18,7 @@ Looking to learn next: SQL
 
 #
 
-Thank you for visiting my profile!
 
-#
 
 
 <div align="center">
@@ -38,7 +36,9 @@ Thank you for visiting my profile!
 
 ###
 
+Thank you for visiting my profile!
 
+#
 
 <!--
 ![Profile Banner](https://your-image-url.com/banner.png)
