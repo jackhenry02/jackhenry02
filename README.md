@@ -35,10 +35,10 @@ Looking to learn next: SQL
 <img src="https://jackhenry02.github.io/jackhenry02/snake.svg" alt="Snake animation" />
 
 ###
-
+#
 Thank you for visiting my profile!
 
-#
+
 
 <!--
 ![Profile Banner](https://your-image-url.com/banner.png)
