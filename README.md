@@ -6,14 +6,6 @@ Feel free to look at some of my code. Sorry it is messy, I am slowly getting bet
 
 #
 
-### Website
-
-[**CLICK ME**](https://jackhenry02.github.io/jackhenry02/)
-
-(it is made from scratch please be patient 🙏)
-
-#
-
 ### Coding Languages
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=blue)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
