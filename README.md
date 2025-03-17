@@ -18,15 +18,6 @@ Looking to learn next: SQL
 
 #
 
-### Projects
-Here are some of my notable projects:
-- [Project 1](https://github.com/jackhenry02/project1): A brief description of Project 1.
-- [Project 2](https://github.com/jackhenry02/project2): A brief description of Project 2.
-- [Project 3](https://github.com/jackhenry02/project3): A brief description of Project 3.
-
-
-<br>
-
 Thank you for visiting my profile!
 
 #
@@ -51,6 +42,12 @@ Thank you for visiting my profile!
 
 <!--
 ![Profile Banner](https://your-image-url.com/banner.png)
+
+### Projects
+Here are some of my notable projects:
+- [Project 1](https://github.com/jackhenry02/project1): A brief description of Project 1.
+- [Project 2](https://github.com/jackhenry02/project2): A brief description of Project 2.
+- [Project 3](https://github.com/jackhenry02/project3): A brief description of Project 3.
 
 **jackhenry02/jackhenry02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
