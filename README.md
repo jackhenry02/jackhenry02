@@ -4,6 +4,8 @@ Hi, I'm Jack! Welcome to my GitHub profile.
 
 Feel free to look at some of my code. Sorry it is messy, I am slowly getting better with time though.
 
+[Check out my website](https://jackhenry02.github.io/website-testing-2/)
+
 #
 
 ### Coding Languages
@@ -41,7 +43,7 @@ Thank you for visiting my profile!
 
 <!--
 ![Profile Banner](https://your-image-url.com/banner.png)
-
+https://jackhenry02.github.io/website-testing-2/
 ### Projects
 Here are some of my notable projects:
 - [Project 1](https://github.com/jackhenry02/project1): A brief description of Project 1.
