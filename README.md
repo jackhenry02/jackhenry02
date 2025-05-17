@@ -2,7 +2,7 @@
 
 Hi, I'm Jack! Welcome to my GitHub profile.
 
-Feel free to look at some of my code. Sorry it is messy, I am slowly getting better with time though.
+Feel free to look at some of my code. Sorry it is messy.
 
 [Check out my website](https://jackhenry02.github.io/website-testing-2/)
 
