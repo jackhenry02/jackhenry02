@@ -14,9 +14,6 @@ Feel free to look at some of my code. Sorry it is messy.
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-5A5A5A.svg?style=flat&logo=c%2B%2B)
 
-Strongest: Python
-
-Looking to learn next: SQL
 
 #
 
