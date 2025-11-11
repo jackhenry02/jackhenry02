@@ -4,8 +4,9 @@ Hi, I'm Jack! Welcome to my GitHub profile.
 
 Feel free to look at some of my code.
 
+<!--
 [Check out my website](https://jackhenry02.github.io/website-testing-2/)
-
+-->
 #
 
 ### Coding Languages
